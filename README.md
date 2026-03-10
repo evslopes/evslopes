@@ -1,38 +1,28 @@
-# Olá, eu sou Evslopes! 👋
+# Olá, eu sou Elvis! 👋
 
-Sou apaixonado pelo mundo da tecnologia, estudante e curioso! Ofereço o melhor de mim, somando, ajudando, encarando os desafios para juntos encontrarmos as melhores soluções! 
+## 👨‍💻 Sobre Mim
+* 🎯 **Objetivo:** Engenheiro de Software | Arquiteto de Soluções. Especialista em sistemas B2B críticos, unindo SRE/DevOps (alta disponibilidade/resiliência) ao desenvolvimento moderno.
+* 🎓 **Formação:** Pós-graduado em Software Architecture (FIAP) e Graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Infnet.
+* 💡 **Foco Técnico:** Clean Architecture, DDD, Microsserviços, C4 Model, SAGA Patterns, IaC. Forte experiência em troubleshooting L3, performance de DBs (Oracle).
 
-## Sobre mim
+## 🚀 Projetos em Destaque (Arquitetura & Engenharia)
 
-Sou Analista de TI com sólida experiência em desenvolvimento, suporte e análise de sistemas complexos. Desde 2021, atuo na Serasa Experian, liderando a sustentação de sistemas como GED360 e BrPronto para grandes clientes como Oi e TIM. Implemento melhorias, gerencio incidentes críticos e foco sempre em qualidade e cumprimento de SLAs.
+* **BabeView (Monitoramento em Tempo Real):** Arquitetura de um hub multi-câmara (N-para-1) com streaming P2P de baixa latência. Aplicação rigorosa de Clean Architecture e gestão de estado complexa. Desenvolvido com Flutter, WebRTC, Riverpod, DDD.
+* **Nexus Enterprise:** Desenvolvimento de ecossistema corporativo backend focado em escalabilidade e agentes de IA. Construído com Java, Python, Kubernetes, Docker.
+* **FIAP SOAT Cloud-Native:** Projeto de microsserviços com infraestrutura como código e pipelines automatizados. Utilizando Spring Boot, Terraform, AWS, CI/CD.
 
-Anteriormente, como Business Analyst na BrScan, otimizei a análise de dados e relatórios utilizando PowerBI e Python. Minha experiência inclui automação de processos, criação de dashboards e levantamento de requisitos.
+## 🛠 Stack Tecnológico
 
-## Habilidades
+### Arquitetura, Infraestrutura & Cloud
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+* Kubernetes, Docker, AWS, GitHub Actions (CI/CD), Terraform.
 
-* **Linguagens de programação:** Java, JavaScript, Python 
-* **Ferramentas:** PowerBI, Kubernetes
-* **Banco de dados:** SQL, NoSQL, MySQL, Postgress, Neo4j, Cassandra
-* **Modelagem:** UML, C4 Model, BPMN
-* **Outras:** Análise de dados, Automação de processos, Gestão de incidentes, Liderança de equipes
+### Engenharia de Software (Backend, Mobile & Dados)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+* Java (Spring Boot), JavaScript, Python, Flutter, Kotlin.
+* SQL Avançado, Análise de Logs, Data Storytelling.
 
-## Experiência Profissional
-
-* **Serasa Experian:** Analista de TI (2021 - presente)
-    * Liderança na sustentação de sistemas GED360 e BrPronto.
-    * Gestão de incidentes críticos para clientes como Oi e TIM.
-    * Implementação de melhorias com foco em qualidade e SLAs.
-* **BrScan:** Business Analyst ( 2018 - 2021 )
-    * Otimização da análise de dados e relatórios com PowerBI e Python.
-    * Automação de processos e criação de dashboards.
-    * Levantamento de requisitos.
-
-## Educação
-
-* **[FIAP]:** Arquitetura de Software ( 2023 - 2024 )
-* **[INFNET]:** Análise e Desenvolvimento de Sistemas / Engenharia de Software ( 2018 - 2022 )
-
-## Contato
-
-* [evs.lopes@gmail.com]
-* [https://www.linkedin.com/in/evslopes/]
+## 📫 Contato e Networking
+* **Email:** evs.lopes@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/evslopes/
+* **GitHub:** https://github.com/evslopes
