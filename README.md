@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evs.lopes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evslopes)
 
-**Engenheiro de Software Sênior | Arquiteto de Soluções | Especialista em Sistemas Críticos & Edge AI**  
+**Engenheiro de Software | Arquiteto de Soluções | Especialista em Sistemas Críticos & Edge AI**  
 *Rio de Janeiro, RJ - Brasil*
 
 </div>
